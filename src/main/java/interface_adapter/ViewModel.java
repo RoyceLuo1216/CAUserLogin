@@ -25,7 +25,7 @@ public class ViewModel<T> {
     public String getViewName() {
         return this.viewName;
     }
-
+    
     public T getState() {
         return this.state;
     }
